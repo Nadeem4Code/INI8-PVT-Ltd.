@@ -10,11 +10,10 @@ The application allows users to register, view, update, and delete users, with a
 
 ## Installation
 ```bash
-<p style="color:green;">
 ### 1. Clone the repository
 ##### git clone <repository_url>
 ##### cd <repository_name>
-</p>
+
 ```
 
 ## In the root of the project, install backend dependencies
