@@ -9,18 +9,19 @@ The application allows users to register, view, update, and delete users, with a
 - Frontend: Contains the React client code.
 
 ## Installation
-
+```bash
+"
 ### 1. Clone the repository
 ##### git clone <repository_url>
 ##### cd <repository_name>
+"
+```
 
 ## In the root of the project, install backend dependencies
 ##### npm install
 
 
-```bash
-npm run start
-```
+
 
 ## Install frontend dependencies
 ##### cd frontend
