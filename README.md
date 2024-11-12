@@ -11,6 +11,6 @@ The application allows users to register, view, update, and delete users, with a
 ## Installation
 
 ### 1. Clone the repository
-#### git clone <repository_url>
-#### cd <repository_name>
+##### git clone <repository_url>
+##### cd <repository_name>
  
