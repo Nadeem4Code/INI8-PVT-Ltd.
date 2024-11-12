@@ -22,4 +22,21 @@ The application allows users to register, view, update, and delete users, with a
 ##### npm install
 ##### cd ..
 
+# Run all command in root file 
+## Scripts 
+##### The following scripts are set up for managing the application:
+
+### Start Backend: Runs the backend server with Node.js.
+##### npm run start
+
+### Server Development: Starts the backend in development mode with automatic restarts on code changes.
+##### npm run server
+
+## Start Frontend: Runs the React frontend.
+##### npm run client
+
+## Development Mode: Runs both the backend and frontend concurrently for local development.
+##### npm run dev
+
+
  
