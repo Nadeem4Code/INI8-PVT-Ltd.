@@ -20,6 +20,7 @@ The application allows users to register, view, update, and delete users, with a
 
 ```bash
 npm run start
+```
 
 ## Install frontend dependencies
 ##### cd frontend
