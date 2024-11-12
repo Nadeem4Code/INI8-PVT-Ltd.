@@ -1,6 +1,6 @@
 # 1.User Registration Application
 
-This project is a user registration application with a CRUD interface, built with HTML, CSS, JavaScript, and Node.js, using React for the frontend. 
+This project is a user registration application with a CRUD interface, built with HTML, CSS, JavaScript,Mongo DB and Node.js, using React for the frontend. 
 The application allows users to register, view, update, and delete users, with a backend API handling data persistence.
 
 ## Project Structure
