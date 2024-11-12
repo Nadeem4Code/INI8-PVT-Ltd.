@@ -17,6 +17,10 @@ The application allows users to register, view, update, and delete users, with a
 ## In the root of the project, install backend dependencies
 ##### npm install
 
+
+```bash
+npm run start
+
 ## Install frontend dependencies
 ##### cd frontend
 ##### npm install
