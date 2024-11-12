@@ -8,11 +8,10 @@ The application allows users to register, view, update, and delete users, with a
 - Backend: Contains the server code, running on Node.js.
 - Frontend: Contains the React client code.
 
-
-
 ## Installation
 
-1. Clone the repository:
+1. Clone the repository
+
 git clone <repository_url>
 
 cd <repository_name>
