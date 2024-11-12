@@ -13,4 +13,13 @@ The application allows users to register, view, update, and delete users, with a
 ### 1. Clone the repository
 ##### git clone <repository_url>
 ##### cd <repository_name>
+
+# In the root of the project, install backend dependencies
+npm install
+
+# Install frontend dependencies
+cd frontend
+npm install
+cd ..
+
  
