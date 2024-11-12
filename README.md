@@ -10,9 +10,9 @@ The application allows users to register, view, update, and delete users, with a
 
 ## Installation
 ```bash
-### 1. Clone the repository
-##### git clone <repository_url>
-##### cd <repository_name>
+1. Clone the repository
+2.git clone <repository_url>
+3.cd <repository_name>
 
 ```
 
